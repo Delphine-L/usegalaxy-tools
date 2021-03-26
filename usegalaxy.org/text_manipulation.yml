@@ -28,3 +28,15 @@ tools:
   owner: iuc
 - name: table_compute
   owner: iuc
+- name: regex_find_replace
+  owner: galaxyp
+- name: split_file_on_column
+  owner: bgruening
+- name: query_tabular
+  owner: iuc
+- name: sqlite_to_tabular
+  owner: iuc
+- name: concatenate_multiple_datasets
+  owner: mvdbeek
+- name: filter_tabular
+  owner: iuc

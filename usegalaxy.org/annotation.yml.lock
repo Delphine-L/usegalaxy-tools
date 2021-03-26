@@ -8,6 +8,7 @@ tools:
   revisions:
   - bf68eb663bc3
   - eaee459f3d69
+  - 111884f0d912
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: abricate
@@ -32,6 +33,7 @@ tools:
 - name: bp_genbank2gff3
   owner: iuc
   revisions:
+  - 11c3eb512633
   - a0d092f27fdf
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -45,6 +47,9 @@ tools:
   owner: iuc
   revisions:
   - 1e62c28ba91d
+  - 4048d82f0c88
+  - 602fb8e63aa7
+  - cf13a1e03e5b
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: exonerate
@@ -131,30 +136,35 @@ tools:
   revisions:
   - ade773848c3d
   - d7540a923c7b
+  - 438f65cb1d14
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: maker_map_ids
   owner: iuc
   revisions:
   - 326f9c294b09
+  - e408aa831db3
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: maker
   owner: iuc
   revisions:
   - 5e96efe6e6c6
+  - d46d803ca6cc
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: mlst
   owner: iuc
   revisions:
   - 1f5641a52664
+  - ded48b36f3b7
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: progressivemauve
   owner: iuc
   revisions:
   - bdb752f3c6bb
+  - 97a43bcbf44d
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: repeat_masker
@@ -162,6 +172,7 @@ tools:
   revisions:
   - ade773848c3d
   - d7540a923c7b
+  - 438f65cb1d14
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: roary
@@ -169,6 +180,8 @@ tools:
   revisions:
   - 809e42326fc2
   - dbe2b2204555
+  - 15ac71df11a0
+  - 78608ec02d62
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: snap_training
@@ -187,6 +200,7 @@ tools:
   owner: iuc
   revisions:
   - 95ea8d97abb4
+  - 37b5e1f0b544
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: tbprofiler
@@ -194,6 +208,7 @@ tools:
   revisions:
   - 200c378d85f3
   - c2656b729ee9
+  - 037a11682176
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: tb_variant_filter

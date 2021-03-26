@@ -3,6 +3,15 @@ install_resolver_dependencies: true
 install_tool_dependencies: false
 tool_panel_section_label: Variant Calling
 tools:
+- name: snpfreqplot
+  owner: iuc
+  revisions:
+  - dc51db22310c
+  - e362b3143cde
+  - 1062d6ad6503
+  - 3d0adeee3f2b
+  tool_panel_section_id: variant_calling
+  tool_panel_section_label: Variant Calling
 - name: varscan_version_2
   owner: devteam
   revisions:
@@ -25,6 +34,7 @@ tools:
 - name: snpsift
   owner: iuc
   revisions:
+  - 2e497a770bca
   - 2b3e65a4252f
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
@@ -86,23 +96,32 @@ tools:
   - 2953c43180c0
   - 435b157bed6d
   - 606542a18f82
+  - e61c9ac190ad
+  - e0e2fd665102
+  - 09d6e4693887
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: lofreq_call
   owner: iuc
   revisions:
   - 03627f24605f
+  - 074d44697036
   - 31216d510164
   - 3b4b2121842f
   - dfadc322b065
+  - 65432c3abf6c
+  - e1461b5c52a0
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: lofreq_filter
   owner: iuc
   revisions:
   - 6f9ffff040ce
+  - 701d134358ad
   - 9cb929f21cfa
   - fdba1586551d
+  - 950d1d49d678
+  - 7dfca164d2e3
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: lofreq_indelqual
@@ -110,7 +129,10 @@ tools:
   revisions:
   - 2ae554b4bcca
   - 5d6a078d30b0
+  - c27549b9aa1f
   - f4473557ffc7
+  - 354b534eeab7
+  - 426d707dfc47
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: lofreq_viterbi
@@ -118,7 +140,10 @@ tools:
   revisions:
   - 33a416e1659e
   - cdaab621d454
+  - dbd9f2db9ed8
   - ecd80c7c3886
+  - af7e416d8176
+  - aa35ee7f3ab2
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: basil
@@ -131,12 +156,14 @@ tools:
   owner: iuc
   revisions:
   - 71dfde92fd57
+  - c39113e2ae34
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: bcftools_plugin_frameshifts
   owner: iuc
   revisions:
   - 48ac4d611e92
+  - eb22990a2be9
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: exomedepth
@@ -148,8 +175,10 @@ tools:
 - name: gatk4_mutect2
   owner: iuc
   revisions:
+  - 287c4af133e6
   - 3be27a9a7313
   - fd2d6e035c3f
+  - 1cea23583655
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: mixcr_analyze

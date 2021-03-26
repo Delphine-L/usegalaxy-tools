@@ -71,35 +71,41 @@ tools:
   owner: iuc
   revisions:
   - 0f0cf480051b
+  - 60ca8d013263
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
 - name: crossmap_bed
   owner: iuc
   revisions:
   - 91efc13d3ec1
+  - cdbdce00f5f6
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
 - name: crossmap_wig
   owner: iuc
   revisions:
   - e8d84292e510
+  - 5f893ed3c5ed
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
 - name: crossmap_vcf
   owner: iuc
   revisions:
   - 97979c3d179f
+  - b21851ddcc79
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
 - name: crossmap_gff
   owner: iuc
   revisions:
   - 09c6a9e067f9
+  - 88d180fb6d67
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
 - name: gfa_to_fa
   owner: iuc
   revisions:
+  - e33c82b63727
   - 49d6f8ef63b3
   - 8e9d604e92f4
   tool_panel_section_id: convert_formats
@@ -108,6 +114,7 @@ tools:
   owner: iuc
   revisions:
   - 57d45064f114
+  - 75a14cc16d4d
   - b026dae67fba
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
@@ -115,5 +122,26 @@ tools:
   owner: iuc
   revisions:
   - 356dc923f8d3
+  tool_panel_section_id: convert_formats
+  tool_panel_section_label: Convert Formats
+- name: bed_to_protein_map
+  owner: galaxyp
+  revisions:
+  - 024ed7b0ad93
+  - a7c58b43cbaa
+  tool_panel_section_id: convert_formats
+  tool_panel_section_label: Convert Formats
+- name: gffcompare_to_bed
+  owner: galaxyp
+  revisions:
+  - 7e572e148175
+  - ba5368c19dbd
+  tool_panel_section_id: convert_formats
+  tool_panel_section_label: Convert Formats
+- name: mz_to_sqlite
+  owner: galaxyp
+  revisions:
+  - e34bdac5b157
+  - f5c632894818
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats

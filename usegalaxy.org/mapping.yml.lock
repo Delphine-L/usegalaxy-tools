@@ -6,7 +6,10 @@ tools:
 - name: bowtie2
   owner: devteam
   revisions:
+  - 017aba02828d
   - 749c918495f7
+  - c3dd1aeb7d07
+  - 09b2cdb7ace5
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
 - name: lastz
@@ -19,6 +22,7 @@ tools:
   owner: devteam
   revisions:
   - 01ac0a5fedc3
+  - 3fe632431b68
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
 - name: star_fusion
@@ -32,6 +36,7 @@ tools:
   owner: devteam
   revisions:
   - 03ca082aeb2e
+  - fbff957a3655
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
 - name: megablast_wrapper
@@ -61,13 +66,20 @@ tools:
 - name: minimap2
   owner: iuc
   revisions:
+  - 3f4d6399997b
   - 53c0b7a1a0c3
+  - 8c6cd2650d1f
   - b3eab4b67562
+  - 77b2770508f6
+  - f54f5baedfdd
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
 - name: rna_starsolo
   owner: iuc
   revisions:
   - 178bdbdb6d24
+  - e403d27e8f24
+  - ec9cbd6b9a49
+  - a6fba3d92531
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping

@@ -1,5 +1,7 @@
 tool_panel_section_label: Metagenomic Analysis
 tools:
+- name: kraken2
+  owner: iuc
 - name: diamond
   owner: bgruening
 - name: vsearch
@@ -90,3 +92,5 @@ tools:
   owner: iuc
 - name: valet
   owner: iuc
+- name: staramr
+  owner: nml

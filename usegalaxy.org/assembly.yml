@@ -6,8 +6,6 @@ tools:
   owner: iuc
 - name: trinity_psc
   owner: nate
-- name: abyss
-  owner: iuc
 - name: disco
   owner: iuc
 - name: idba_hybrid
@@ -30,9 +28,9 @@ tools:
   owner: iuc
 - name: spades
   owner: nml
-- name: velvetoptimiser
-  owner: simon-gladman
 - name: bandage
   owner: iuc
-- name: velvet
-  owner: devteam
+- name: racon
+  owner: bgruening
+- name: hifiasm
+  owner: bgruening
