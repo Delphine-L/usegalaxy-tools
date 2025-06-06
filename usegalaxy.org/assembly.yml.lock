@@ -92,6 +92,7 @@ tools:
   - 9638ba70882c
   - 99ecfdafc64f
   - e731ea24e48d
+  - f192c2fbe13f
   - fd128c111ab0
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
