@@ -291,6 +291,7 @@ tools:
   - 29151e779524
   - 76d4cbefff85
   - a315c25dc813
+  - bded6226d503
   - e9bd16ba5ebd
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
