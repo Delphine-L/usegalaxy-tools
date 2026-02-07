@@ -7,6 +7,7 @@ tools:
   owner: goeckslab
   revisions:
   - 25bb80df7c0c
+  - 3719606b94af
   - 375c36923da1
   - 975512caae22
   - a92f200d296e
@@ -16,6 +17,7 @@ tools:
 - name: image_learner
   owner: goeckslab
   revisions:
+  - 2c6624cae3c5
   - 8729f69e9207
   - 94cd9ac4a9b1
   - bbf30253c99f
