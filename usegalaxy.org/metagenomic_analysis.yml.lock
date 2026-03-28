@@ -1001,13 +1001,6 @@ tools:
   - fac3911ad3b6
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
-- name: cami_amber_convert
-  owner: iuc
-  revisions:
-  - 848594e0be6a
-  - fac3911ad3b6
-  tool_panel_section_id: metagenomic_analysis
-  tool_panel_section_label: Metagenomic Analysis
 - name: cami_amber
   owner: iuc
   revisions:
@@ -1030,5 +1023,11 @@ tools:
   owner: iuc
   revisions:
   - 954448bad930
+  tool_panel_section_id: metagenomic_analysis
+  tool_panel_section_label: Metagenomic Analysis
+- name: kegg_pathways_completeness
+  owner: iuc
+  revisions:
+  - 9933e2f91584
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
