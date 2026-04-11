@@ -361,6 +361,7 @@ tools:
   - 55703205546f
   - 6ffedbe712c0
   - 80ca74b1cb36
+  - a0061a087409
   - adc6137e7c73
   - ae69f6918abe
   - c8547d3993c0
@@ -392,6 +393,7 @@ tools:
   - 237ae72d58a3
   - 2d032cff49eb
   - 4335cec181ba
+  - 4ee087eeda62
   - 6adef419e041
   - 7696d389675c
   - 87cb9cb44d1f
@@ -413,6 +415,7 @@ tools:
   - 927586a18553
   - c648d0716fb0
   - c9969328b42f
+  - d3fe6fcc6bf4
   - d4808d5b83da
   - dc4b5fd604a6
   tool_panel_section_id: machine_learning
