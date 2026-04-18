@@ -86,6 +86,7 @@ tools:
   - 9991c4ddde14
   - b237f27a8afc
   - ce00f1cccb03
+  - eae46976fbb8
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: keras_model_config
@@ -124,6 +125,7 @@ tools:
   revisions:
   - 03533fa14e77
   - 0dc3027df8f4
+  - 1252578525d1
   - 305c1229ac99
   - 3814a92c1416
   - 4a5266c96889
@@ -256,6 +258,7 @@ tools:
   - 97dce66fe158
   - 9c3e1d3235c8
   - b1eda492f063
+  - bc0117538945
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_pairwise_metrics
@@ -270,6 +273,7 @@ tools:
   - 7614281473da
   - b07416ec8d16
   - c84ab9ca4e5c
+  - df87a7702f97
   - e79200975daf
   - f24deab884d0
   tool_panel_section_id: machine_learning
@@ -277,6 +281,7 @@ tools:
 - name: sklearn_nn_classifier
   owner: bgruening
   revisions:
+  - 187226dceb22
   - 2c58b83c9bad
   - 309cc7c6af56
   - 39ae3c043096
@@ -297,6 +302,7 @@ tools:
   - 2d7c60aa6c62
   - 73e7f1c76ece
   - 7dd3fb35904f
+  - 86d4c2b66e16
   - 8eed73e8e04d
   - ad7e0b4291ee
   - aeca97d9a214
@@ -317,6 +323,7 @@ tools:
   - 4ecc0ce9d0a2
   - 841a6cc5fc58
   - a07ab242b0b5
+  - cab63604ca1d
   - d868914bce73
   - f3dfa4bdf87e
   tool_panel_section_id: machine_learning
@@ -331,6 +338,7 @@ tools:
   - 6d21b03e00a1
   - 74adae8d7b0f
   - 96bb4c49e30e
+  - 9e0e31bd8392
   - a7c667ff83fe
   - ae0fafb53c1d
   - c2cd3219543a
@@ -481,6 +489,7 @@ tools:
   revisions:
   - 05143043ca13
   - 1588f9076e32
+  - 21730620a849
   - 222c02df5d55
   - 4a229a7ad638
   - 6fabdcde0214
@@ -501,6 +510,7 @@ tools:
   - b7d104ede67e
   - c48ffc96fe79
   - d562708bb095
+  - f04f39a6825d
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_pca
