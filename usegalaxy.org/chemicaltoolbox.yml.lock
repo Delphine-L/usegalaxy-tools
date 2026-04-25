@@ -525,6 +525,7 @@ tools:
   revisions:
   - 50eaae9df8d3
   - b249bf9be0d1
+  - f620af05e524
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
 - name: openbabel_obgrep
@@ -539,6 +540,7 @@ tools:
   revisions:
   - 81836d586797
   - d7f0ca1f2669
+  - fc2a2989c3b1
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
 - name: prepare_ligands_for_docking
@@ -565,6 +567,7 @@ tools:
   revisions:
   - 2c5c7da26e08
   - 8302ab092300
+  - d5ad79cfa0ae
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
 - name: rdock_rbcavity
