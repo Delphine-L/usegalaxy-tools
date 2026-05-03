@@ -6,6 +6,7 @@ tools:
 - name: minimap2
   owner: iuc
   revisions:
+  - 3faf9a2bf58d
   - 539de907fd99
   - 5cc34c3f440d
   - 66367287b4e6
@@ -19,6 +20,7 @@ tools:
   owner: devteam
   revisions:
   - 09b2cdb7ace5
+  - a470b376503d
   - d5ceb9f3c25b
   - f76cbb84d67f
   tool_panel_section_id: mapping
@@ -65,6 +67,7 @@ tools:
 - name: rna_starsolo
   owner: iuc
   revisions:
+  - 002713edc2a1
   - 381a32c51141
   - 42ce70172b72
   - 45795f582ae9
