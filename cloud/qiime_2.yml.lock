@@ -29,6 +29,7 @@ tools:
   revisions:
   - 0700d9de4f79
   - 8e01d149bcdb
+  - ab32ff3e8409
   tool_panel_section_id: qiime_2
   tool_panel_section_label: QIIME 2
 - name: qiime2__dada2__denoise_single
@@ -83,6 +84,7 @@ tools:
 - name: qiime2__diversity__beta_group_significance
   owner: q2d2
   revisions:
+  - 8f112ef712c3
   - a0d20b8b681e
   - c499a93403c7
   tool_panel_section_id: qiime_2
@@ -92,11 +94,13 @@ tools:
   revisions:
   - 4342c148f53e
   - a74f06287b8c
+  - b102c0399031
   tool_panel_section_id: qiime_2
   tool_panel_section_label: QIIME 2
 - name: qiime2__feature_classifier__classify_sklearn
   owner: q2d2
   revisions:
+  - 6131ad924c9d
   - 771d8be25d7a
   - b5ea3e026b8b
   tool_panel_section_id: qiime_2
@@ -105,6 +109,7 @@ tools:
   owner: q2d2
   revisions:
   - 3da2f87501ee
+  - 3fa5e4d759dc
   - d29295070ccd
   tool_panel_section_id: qiime_2
   tool_panel_section_label: QIIME 2
