@@ -209,6 +209,7 @@ tools:
   revisions:
   - 099a77735731
   - 4f85da43b40c
+  - 8994fea8fbde
   - b095c69eab5b
   - b0f07e3d6f07
   - d129c3d0e920
@@ -541,6 +542,7 @@ tools:
   - 7109a27a11db
   - 8f20a5b9b282
   - cfec9601b25d
+  - f421fd0c42ea
   - fc7334661489
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -612,6 +614,7 @@ tools:
 - name: staramr
   owner: iuc
   revisions:
+  - 146b508457e8
   - 59d308975e63
   - 6d5c8a6ceea0
   - eaa563bd535a
