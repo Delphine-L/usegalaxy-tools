@@ -6,6 +6,7 @@ tools:
 - name: blobtoolkit
   owner: bgruening
   revisions:
+  - 1eb9b32f7096
   - '392811378515'
   - 53dd00a4ab68
   - 8c2167481e72
@@ -88,6 +89,7 @@ tools:
 - name: metaspades
   owner: nml
   revisions:
+  - 04d81e5f25e9
   - 05c394313b1c
   - 697c9156dafe
   - 9638ba70882c
@@ -184,6 +186,7 @@ tools:
   - 7490b213baa9
   - 904bf932cf78
   - a5d68876c44e
+  - afac6d6bd02b
   - c33a476f4001
   - d89ced9439f3
   tool_panel_section_id: assembly
@@ -393,6 +396,7 @@ tools:
   revisions:
   - 0393c0415171
   - 0fe699ced54f
+  - 10dc0f5a82e2
   - 2b8b4cacb83d
   - 3ef480892a9f
   - 3fba9c77550a
@@ -437,6 +441,7 @@ tools:
 - name: mitohifi
   owner: bgruening
   revisions:
+  - 2853471f753d
   - 99ddbf037d98
   - bfab6f5b449d
   tool_panel_section_id: assembly
@@ -628,6 +633,7 @@ tools:
 - name: vgp_chromosome_assignment
   owner: iuc
   revisions:
+  - 8926e6cd9071
   - 9b52f4e2093b
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -640,6 +646,7 @@ tools:
 - name: vgp_split_agp
   owner: iuc
   revisions:
+  - da61829dc3be
   - fc30c955f2ac
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
