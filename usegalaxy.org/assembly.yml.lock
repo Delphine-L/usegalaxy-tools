@@ -634,6 +634,7 @@ tools:
 - name: vgp_sak_generation
   owner: iuc
   revisions:
+  - 8fbdd799f24c
   - c09d0f41b196
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
