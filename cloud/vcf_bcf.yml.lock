@@ -73,6 +73,7 @@ tools:
   - 394dbf428c7b
   - 8abfcd1a6949
   - a730269af659
+  - f319f4089d5e
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: bcftools_plugin_counts
@@ -150,6 +151,7 @@ tools:
 - name: bcftools_plugin_fill_tags
   owner: iuc
   revisions:
+  - 26657b72001e
   - b10d1510fa84
   - bf7d6acd9884
   - fea209b23f19
@@ -161,11 +163,13 @@ tools:
   - 02f349bdbf96
   - 39bca000353d
   - 3d21f507fc5d
+  - 60e73d60fe1a
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: bcftools_merge
   owner: iuc
   revisions:
+  - 52f6b7ac3739
   - 5b006286a458
   - d3286f971e89
   - e03f2f3ac3a9
@@ -190,6 +194,7 @@ tools:
 - name: bcftools_view
   owner: iuc
   revisions:
+  - 12c1e7346150
   - 1a2ef636f48e
   - 23680a42e149
   - 2a7d7ee53975
@@ -198,6 +203,7 @@ tools:
 - name: bcftools_filter
   owner: iuc
   revisions:
+  - 1c7dee9f0bf8
   - 3502f0e1f0e4
   - 46fcafba49ec
   - 6ca7c55a27e8
@@ -217,6 +223,7 @@ tools:
   - 06eaadeffb7d
   - 2c372041ed8c
   - 403553ae19f6
+  - b79aae13e613
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: bcftools_plugin_dosage
