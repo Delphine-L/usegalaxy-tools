@@ -129,6 +129,7 @@ tools:
   - 675ee1aa5952
   - 9e58ff014088
   - a8a278849c18
+  - aa1ac2f7a688
   - e122f9101584
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -144,6 +145,7 @@ tools:
   - d5fb354f745d
   - dc5d1a54054b
   - de1260f8a300
+  - f4fc734dd9b0
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: spades_metaplasmidspades
@@ -245,6 +247,7 @@ tools:
   revisions:
   - 067592b6b312
   - 21e491ad532a
+  - 86ec2f06de3c
   - 94fe43e75ddc
   - b2860df42e16
   - b9e31c5c01c7
@@ -640,6 +643,7 @@ tools:
 - name: vgp_split_agp
   owner: iuc
   revisions:
+  - da61829dc3be
   - fc30c955f2ac
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
