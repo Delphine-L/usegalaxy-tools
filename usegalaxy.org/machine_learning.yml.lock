@@ -10,6 +10,7 @@ tools:
   - 375c36923da1
   - 975512caae22
   - a92f200d296e
+  - baa13bb4cdcc
   - de753cf07008
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
@@ -18,6 +19,7 @@ tools:
   revisions:
   - 8729f69e9207
   - 94cd9ac4a9b1
+  - a2e4242653ec
   - bbf30253c99f
   - c460abae83eb
   - c5150cceab47
