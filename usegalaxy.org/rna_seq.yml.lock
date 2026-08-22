@@ -122,6 +122,7 @@ tools:
   owner: iuc
   revisions:
   - 01247aaf0a10
+  - 3741c4204eb5
   - 5ae5c312d718
   - 87c11c05d238
   - ce5d418183c5
@@ -145,6 +146,7 @@ tools:
 - name: deseq2
   owner: iuc
   revisions:
+  - 05f9e54d7e81
   - 0696db066a5b
   - 2275d0688bca
   - 6a3a025714d3
@@ -190,6 +192,7 @@ tools:
   - 67b0b160903a
   - 8f6836089479
   - 916cb26bd9d3
+  - fb117b3ee99a
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: gffcompare
@@ -488,6 +491,7 @@ tools:
   - 3f9ff31c88bb
   - 51a3b375b7b8
   - 9d93999d9028
+  - c312b506ee6f
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: targetfinder
