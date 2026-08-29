@@ -347,6 +347,7 @@ tools:
   - 39bca000353d
   - 3d21f507fc5d
   - 57f36434474f
+  - 60e73d60fe1a
   - 63aabc920911
   - 9ece72700ca9
   - d7d1663559e9
@@ -582,6 +583,7 @@ tools:
   owner: iuc
   revisions:
   - 1ca7418e46ee
+  - 262d695b5456
   - 271965b55437
   - 5fa262ce95dd
   - 6deb4d549bc9
@@ -635,6 +637,7 @@ tools:
   - 7b4454382d39
   - 91c1e57d5c7f
   - 9243f0e24906
+  - d1ffe13f696e
   - fd1030bc93d9
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
