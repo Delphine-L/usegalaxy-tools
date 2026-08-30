@@ -92,6 +92,7 @@ tools:
   revisions:
   - 4342c148f53e
   - a74f06287b8c
+  - b102c0399031
   tool_panel_section_id: qiime_2
   tool_panel_section_label: QIIME 2
 - name: qiime2__feature_classifier__classify_sklearn
