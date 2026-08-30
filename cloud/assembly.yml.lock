@@ -105,6 +105,7 @@ tools:
 - name: hifiasm
   owner: bgruening
   revisions:
+  - 09cf7b520734
   - 5d365d5cbe9d
   - e5e767089163
   tool_panel_section_id: assembly
