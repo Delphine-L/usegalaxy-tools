@@ -160,3 +160,11 @@ tools:
   owner: genouest
 - name: coreprofiler_allele_calling
   owner: iuc
+- name: remove_terminal_stop_codons
+  owner: iuc
+- name: drhip
+  owner: iuc
+- name: deeparg_short_reads
+  owner: iuc
+- name: groot
+  owner: iuc
