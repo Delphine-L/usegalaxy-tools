@@ -144,6 +144,7 @@ tools:
   - d5fb354f745d
   - dc5d1a54054b
   - de1260f8a300
+  - f4fc734dd9b0
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: spades_metaplasmidspades
@@ -153,6 +154,7 @@ tools:
   - 4a01e0d2892c
   - 6b5a5842531e
   - 7e27faaad80e
+  - ae96f644b722
   - b8002c3f7141
   - c5c4fa59be65
   - c8097e741b13
@@ -184,6 +186,7 @@ tools:
   - 7490b213baa9
   - 904bf932cf78
   - a5d68876c44e
+  - afac6d6bd02b
   - c33a476f4001
   - d89ced9439f3
   tool_panel_section_id: assembly
@@ -211,6 +214,7 @@ tools:
   - 6766a94ef559
   - 7922870efcca
   - 9de69775f512
+  - c4ba6aa27088
   - e060c3987513
   - ea83ac535a1f
   - ed32d95f436a
@@ -357,6 +361,7 @@ tools:
   revisions:
   - 02831bf9e95f
   - 0346286a3b0a
+  - 0d0e8d0691c8
   - 2b16ba799da9
   - 511e5e3cd55e
   - 79b48f02db49
