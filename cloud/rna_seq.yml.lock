@@ -6,6 +6,7 @@ tools:
 - name: salmon
   owner: bgruening
   revisions:
+  - 29e12b90949d
   - 30d90b851d3c
   - cc05793bb896
   - f4d5237a84f6
@@ -14,6 +15,7 @@ tools:
 - name: kallisto_pseudo
   owner: iuc
   revisions:
+  - 3741c4204eb5
   - 5ae5c312d718
   - ce5d418183c5
   tool_panel_section_id: rna_seq
