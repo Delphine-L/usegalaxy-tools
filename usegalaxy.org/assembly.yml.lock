@@ -153,6 +153,7 @@ tools:
   - 4a01e0d2892c
   - 6b5a5842531e
   - 7e27faaad80e
+  - ae96f644b722
   - b8002c3f7141
   - c5c4fa59be65
   - c8097e741b13
@@ -195,6 +196,7 @@ tools:
   - 340bc17f49cf
   - 388dbecbf03b
   - 5be72b7648fa
+  - 6fb81bb0fe3e
   - 75405f5e2cc5
   - 7bb235ff0746
   - 85fb02c43042
@@ -211,6 +213,7 @@ tools:
   - 6766a94ef559
   - 7922870efcca
   - 9de69775f512
+  - c4ba6aa27088
   - e060c3987513
   - ea83ac535a1f
   - ed32d95f436a
@@ -231,6 +234,7 @@ tools:
 - name: spades
   owner: nml
   revisions:
+  - 1f04936b96f3
   - 33368fec3b70
   - 65d1598a9256
   - 7897763d14ec
@@ -393,6 +397,7 @@ tools:
   revisions:
   - 0393c0415171
   - 0fe699ced54f
+  - 10dc0f5a82e2
   - 2b8b4cacb83d
   - 3ef480892a9f
   - 3fba9c77550a
@@ -521,6 +526,7 @@ tools:
   - 6cbca5661205
   - 7f71687c8146
   - 81fc1418fbfb
+  - 88926bef8e75
   - ade829d2ae3a
   - c20a07c9237b
   - cfeb5205eacc
@@ -628,6 +634,7 @@ tools:
 - name: vgp_chromosome_assignment
   owner: iuc
   revisions:
+  - 8926e6cd9071
   - 9b52f4e2093b
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
