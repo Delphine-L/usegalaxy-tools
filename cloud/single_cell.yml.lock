@@ -74,6 +74,7 @@ tools:
   owner: iuc
   revisions:
   - 3d748954434b
+  - 637e50759b72
   - 7e8c677a7b71
   - 9bd945a03d7b
   - be1fdce914c6
@@ -95,6 +96,7 @@ tools:
   - 0bf7fddf90c7
   - 286a24ac079c
   - 33c0081e16c6
+  - 3a9aee9e3551
   - 688357ad5e61
   - 6f0d0c784f09
   - 9301df6f892d
@@ -107,6 +109,7 @@ tools:
   revisions:
   - 05631436cdf1
   - 0f1aaff9b22d
+  - 27f120c69246
   - 4c9fa3c63d9e
   - a7b951572609
   - c822c5c1feef
@@ -116,6 +119,7 @@ tools:
 - name: dropletutils
   owner: iuc
   revisions:
+  - 10d928447114
   - 2c1200fba922
   - a9caad671439
   tool_panel_section_id: single_cell
@@ -141,6 +145,7 @@ tools:
 - name: raceid_inspectclusters
   owner: iuc
   revisions:
+  - 22c726451b40
   - 2b0d3e2f402a
   - 41f34e925bd5
   - c7ddb719554d
@@ -268,6 +273,7 @@ tools:
 - name: scanpy_filter
   owner: iuc
   revisions:
+  - 2e6029e47eb5
   - 5813f9920877
   - 5b3c1679d29b
   - 64388be6d510
@@ -290,6 +296,7 @@ tools:
 - name: scanpy_normalize
   owner: iuc
   revisions:
+  - 2b6498d4c8c6
   - 4766556db52c
   - 4bda4412b8c2
   - 56c0d4acef02
