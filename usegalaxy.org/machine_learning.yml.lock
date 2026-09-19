@@ -10,6 +10,7 @@ tools:
   - 375c36923da1
   - 975512caae22
   - a92f200d296e
+  - baa13bb4cdcc
   - de753cf07008
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
@@ -18,6 +19,7 @@ tools:
   revisions:
   - 8729f69e9207
   - 94cd9ac4a9b1
+  - a2e4242653ec
   - bbf30253c99f
   - c460abae83eb
   - c5150cceab47
@@ -30,6 +32,7 @@ tools:
   owner: goeckslab
   revisions:
   - 01e7c5481f13
+  - 06ef6f6ebfb1
   - 0afd970bd8ae
   - 11fdac5affb3
   - 15707141e7da
@@ -60,6 +63,7 @@ tools:
   - 4a7df9abe4c4
   - 4eca9d109de1
   - 4fee4504646e
+  - 7363de120cc2
   - 7d78a6afc958
   - afd0864d18b6
   - c5c324ac29fc
@@ -97,6 +101,7 @@ tools:
   - 2d8478144bb2
   - 4d81e3e2fb63
   - 61a6132df9e0
+  - 7f26886839f1
   - 8a794e6d3388
   - 94d91334c787
   - b9906ce4756c
@@ -201,6 +206,7 @@ tools:
   - 0630258dcf35
   - 14fa42b095c4
   - 6d23883e0b94
+  - 70f61a4de941
   - 73d2ef652879
   - 80852884053f
   - b7c3e9a3b954
@@ -215,6 +221,7 @@ tools:
   revisions:
   - 0f460421b212
   - 1fe020b2108f
+  - 625a129225f7
   - 7068b5fcd623
   - 7c2e71e4acf3
   - ab2c393080f9
@@ -358,6 +365,7 @@ tools:
   revisions:
   - 0ee984c1cbd6
   - 15bcf1a7543b
+  - 4cae0397fcdb
   - 55703205546f
   - 6ffedbe712c0
   - 80ca74b1cb36
@@ -380,6 +388,7 @@ tools:
   - 6db5c1dfb076
   - 70c5a9127f99
   - 7d98dfb04d27
+  - 9c8344681465
   - dc17e2878dc1
   - f04a2405f3fe
   - f5dcb87fd14e
@@ -391,6 +400,7 @@ tools:
   - 1bd039aca44f
   - 237ae72d58a3
   - 2d032cff49eb
+  - 385a9ac83d56
   - 4335cec181ba
   - 6adef419e041
   - 7696d389675c
@@ -415,6 +425,7 @@ tools:
   - c9969328b42f
   - d4808d5b83da
   - dc4b5fd604a6
+  - ddd7fc59ba59
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_model_fit
@@ -423,6 +434,7 @@ tools:
   - 17999807dc1b
   - 1c25f305db70
   - 734c66aa945a
+  - 79bfceddc2c4
   - 8e447b95e6a8
   - adb084b901cc
   - f0ede473a7e8

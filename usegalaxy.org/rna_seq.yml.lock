@@ -36,6 +36,7 @@ tools:
   - 0c16cad5e03b
   - 26371a1df031
   - 6c19daec423d
+  - eaa10652acc2
   - f4af63aaf57a
   - fbf98f24097b
   tool_panel_section_id: rna_seq
@@ -85,6 +86,7 @@ tools:
   owner: bgruening
   revisions:
   - 15cd64d7c58b
+  - 29e12b90949d
   - 30d90b851d3c
   - 49121db48873
   - 7fdb9d1591e2
@@ -106,6 +108,7 @@ tools:
   - 64be1ac21109
   - 8b8a3f793f0f
   - 9553180705b7
+  - b250b3058cbb
   - e8ac2b53f262
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
@@ -173,6 +176,7 @@ tools:
   - b9e04854e2bb
   - c772497b2c32
   - d5659efd66aa
+  - d8d32326fbfb
   - de21b616f03a
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
