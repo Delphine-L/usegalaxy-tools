@@ -28,6 +28,7 @@ tools:
   - 64be1ac21109
   - 8b8a3f793f0f
   - 9553180705b7
+  - b250b3058cbb
   - e8ac2b53f262
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -468,6 +469,7 @@ tools:
 - name: staramr
   owner: nml
   revisions:
+  - 15a4fff208e4
   - 2fd4d4c9c5c2
   - 3548a93b39c1
   - 3b22de20bd4b
@@ -592,6 +594,7 @@ tools:
 - name: mash_paste
   owner: iuc
   revisions:
+  - 618969c1d8e1
   - 8f32dcfde5d9
   - e0c0fda064eb
   tool_panel_section_id: metagenomic_analysis
@@ -684,6 +687,7 @@ tools:
   - 6000b8a8dd9d
   - 87064cb77a52
   - d1c93a32cb25
+  - f09a7ce2f629
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: phyloseq_from_biom
@@ -821,6 +825,7 @@ tools:
   - 0f5f7fa9c08f
   - 304ac5b49dea
   - 66acaec9f386
+  - fd8ed3767ebb
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: ampvis2_load
@@ -903,6 +908,7 @@ tools:
 - name: drep_compare
   owner: iuc
   revisions:
+  - e5dc009367ef
   - f0334664a47b
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
