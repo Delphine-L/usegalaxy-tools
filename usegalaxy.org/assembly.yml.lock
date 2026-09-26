@@ -89,6 +89,7 @@ tools:
   owner: nml
   revisions:
   - 05c394313b1c
+  - 434f2a6c3ade
   - 697c9156dafe
   - 9638ba70882c
   - 99ecfdafc64f
@@ -267,6 +268,7 @@ tools:
   owner: bgruening
   revisions:
   - 045c7c3d8e59
+  - 09cf7b520734
   - 0ee0c3089254
   - 170061c052ad
   - 284a1cb82b61
@@ -357,6 +359,7 @@ tools:
   revisions:
   - 02831bf9e95f
   - 0346286a3b0a
+  - 0d0e8d0691c8
   - 2b16ba799da9
   - 511e5e3cd55e
   - 79b48f02db49
@@ -376,6 +379,7 @@ tools:
   - 6c571966cfb9
   - 7c9417381ad5
   - 9ec9c22767c8
+  - cfc412b91a57
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: pretext_graph
@@ -634,12 +638,14 @@ tools:
 - name: vgp_sak_generation
   owner: iuc
   revisions:
+  - 8fbdd799f24c
   - c09d0f41b196
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: vgp_split_agp
   owner: iuc
   revisions:
+  - da61829dc3be
   - fc30c955f2ac
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
