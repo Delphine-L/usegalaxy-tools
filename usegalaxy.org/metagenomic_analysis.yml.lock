@@ -258,6 +258,7 @@ tools:
   - 7136e9ab70db
   - 7f3b59dee073
   - 7f8f0e9fcb37
+  - a6ceb91124fa
   - b6dddf8c2e6f
   - efe26de231ec
   tool_panel_section_id: metagenomic_analysis
@@ -287,6 +288,7 @@ tools:
   - 47198090501e
   - 6b4ddc3b64bd
   - 84fd33a60b35
+  - 9010b9e13dec
   - 96336c6a2bb7
   - b35a5e8ff0fe
   - f79565b12646
@@ -297,6 +299,7 @@ tools:
   revisions:
   - 04c15826a0b8
   - 0776d824d896
+  - 1fb4fc5e64d6
   - 39638e0aff59
   - 5fe3edf19b9c
   - 75403243703a
@@ -592,6 +595,7 @@ tools:
 - name: mash_paste
   owner: iuc
   revisions:
+  - 618969c1d8e1
   - 8f32dcfde5d9
   - e0c0fda064eb
   tool_panel_section_id: metagenomic_analysis
@@ -700,6 +704,7 @@ tools:
   owner: iuc
   revisions:
   - 32f892954ef6
+  - 47fffb4462d8
   - 5007bc8a3d90
   - bbd9d1022144
   - cee4982a717b
@@ -712,6 +717,7 @@ tools:
   - 10a7732528b2
   - 7ed99cb39c9d
   - '817853857084'
+  - 83c8e8560d8f
   - d6cbeb48294d
   - fb7c4bbe8994
   tool_panel_section_id: metagenomic_analysis
