@@ -140,6 +140,7 @@ tools:
   revisions:
   - 26983857c91a
   - 2bc10a9ca58b
+  - 38ef4853d0f5
   - 56d5b797ce84
   - 5be24eba848d
   - b8858746dc1f
@@ -161,6 +162,7 @@ tools:
   - 195e98217334
   - 1d848bc4585f
   - 3f9dc453c0e8
+  - 5d44209e86ad
   - 62eb6d63f582
   - c06951d10364
   tool_panel_section_id: deeptools
@@ -168,6 +170,7 @@ tools:
 - name: deeptools_bam_compare
   owner: bgruening
   revisions:
+  - 09d1214b45d1
   - 268e91e540ee
   - 29451af70c52
   - c89b665b45e4
