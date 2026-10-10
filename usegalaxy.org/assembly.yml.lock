@@ -129,6 +129,7 @@ tools:
   - 675ee1aa5952
   - 9e58ff014088
   - a8a278849c18
+  - c6ba8470ed01
   - e122f9101584
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -153,6 +154,7 @@ tools:
   - 4a01e0d2892c
   - 6b5a5842531e
   - 7e27faaad80e
+  - 9911ca348668
   - b8002c3f7141
   - c5c4fa59be65
   - c8097e741b13
@@ -178,6 +180,7 @@ tools:
   owner: iuc
   revisions:
   - 051fd2db8a27
+  - 162a7ff870e9
   - 5e7a2a927b56
   - 604782a8a53a
   - 60b8f1668552
@@ -291,6 +294,7 @@ tools:
   - 29151e779524
   - 76d4cbefff85
   - a315c25dc813
+  - bded6226d503
   - e9bd16ba5ebd
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -393,6 +397,7 @@ tools:
   revisions:
   - 0393c0415171
   - 0fe699ced54f
+  - 10dc0f5a82e2
   - 2b8b4cacb83d
   - 3ef480892a9f
   - 3fba9c77550a
@@ -628,6 +633,7 @@ tools:
 - name: vgp_chromosome_assignment
   owner: iuc
   revisions:
+  - 8926e6cd9071
   - 9b52f4e2093b
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly

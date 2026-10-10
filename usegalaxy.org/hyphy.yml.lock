@@ -97,6 +97,7 @@ tools:
 - name: hyphy_cfel
   owner: iuc
   revisions:
+  - 34d2e58b8a1f
   - 3d4ea0544af1
   - 5b63871000c9
   - 643be54bef90
@@ -176,6 +177,7 @@ tools:
 - name: hyphy_fubar
   owner: iuc
   revisions:
+  - 04de395f2a4e
   - 1b893cdead55
   - 271afda54a6d
   - 37f6c6344193
@@ -212,6 +214,7 @@ tools:
   - 6223845127ea
   - 659517798cc4
   - 6a726db04d4b
+  - 6b8fd7d6b0ad
   - 7a2092844346
   - 83f146502c0f
   - 88c4aa435ded
@@ -235,6 +238,7 @@ tools:
   - 5d8389d684bf
   - 5fd8dc04d6af
   - 6433eab14244
+  - 67fe4f52c1e5
   - 7852b50fabb7
   - 82a3221ca3aa
   - a114682b2788
@@ -256,6 +260,7 @@ tools:
   revisions:
   - 0407236012e5
   - 296f6bc03fa6
+  - 3791d6afec1e
   - 6d29207a32c5
   - 6fede7bd6c8f
   - 70aa4bada58d
@@ -363,6 +368,7 @@ tools:
   - 4bf743518e41
   - 50554f806e16
   - 7c86ceaf523c
+  - aaf823b11580
   - dc8875a13914
   - ea698cd7e086
   - f5bbd4b34541
