@@ -7,6 +7,7 @@ tools:
   owner: bgruening
   revisions:
   - 01c37e54e86e
+  - 65fc9fc648f4
   - 952abbc4b1de
   - c3ffb2c1e314
   - fb7068d30ec9
@@ -33,6 +34,7 @@ tools:
 - name: hicexplorer_chicplotviewpoint
   owner: bgruening
   revisions:
+  - 009ea872cdf5
   - 013e53ccc7ac
   - '920526260066'
   - b9ab56aecd18
@@ -152,6 +154,7 @@ tools:
   revisions:
   - 3a6a5381db36
   - 4401ed529d2c
+  - 4630448a0d88
   - 87eb9c58cd19
   - a315574104c6
   tool_panel_section_id: hicexplorer
@@ -315,6 +318,7 @@ tools:
   - 025a128652dc
   - 12d51d7be66f
   - b63363075c2e
+  - eb3a1b9a1c3c
   - f741330d4a71
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
