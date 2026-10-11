@@ -223,6 +223,7 @@ tools:
   owner: devteam
   revisions:
   - 108db6635177
+  - 47db0f26ca31
   - 62e4d6cdbaa7
   - 993b19f20c76
   - bd735cae4ce6
@@ -289,5 +290,6 @@ tools:
   owner: iuc
   revisions:
   - 9b8feb118f9e
+  - f66e109710bd
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM

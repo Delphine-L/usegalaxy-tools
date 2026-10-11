@@ -51,6 +51,7 @@ tools:
   revisions:
   - 13cf83ced60c
   - 55e35e9203cf
+  - 8f8c0fdd625d
   - 923dcc644832
   - 93dd15e13e6a
   - d0a337ddf062
@@ -141,6 +142,7 @@ tools:
 - name: raceid_inspectclusters
   owner: iuc
   revisions:
+  - 22c726451b40
   - 2b0d3e2f402a
   - 41f34e925bd5
   - c7ddb719554d
@@ -153,6 +155,7 @@ tools:
   - 43c146e25a43
   - 8b917923f7d4
   - b83fbc90161e
+  - b9712ed9c027
   - c891d8b33ede
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -268,6 +271,7 @@ tools:
 - name: scanpy_filter
   owner: iuc
   revisions:
+  - 2e6029e47eb5
   - 5813f9920877
   - 5b3c1679d29b
   - 64388be6d510
