@@ -43,6 +43,7 @@ tools:
   revisions:
   - 26983857c91a
   - 2bc10a9ca58b
+  - 38ef4853d0f5
   tool_panel_section_id: deeptools
   tool_panel_section_label: deepTools
 - name: deeptools_correct_gc_bias
@@ -71,6 +72,7 @@ tools:
   revisions:
   - 32e451def88c
   - bad3ca889618
+  - c3dfef526d03
   tool_panel_section_id: deeptools
   tool_panel_section_label: deepTools
 - name: deeptools_plot_coverage
