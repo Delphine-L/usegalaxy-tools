@@ -75,6 +75,7 @@ tools:
   - 76d290331481
   - 8eb8750070d4
   - 914cfcba0ec8
+  - a356a3e21032
   - ae618321f34a
   - cbf488da3b2c
   - cef79931dda5
@@ -147,6 +148,7 @@ tools:
   revisions:
   - 0696db066a5b
   - 2275d0688bca
+  - 2a1ad8a533dc
   - 6a3a025714d3
   - 6c363db8c702
   - 71bacea10eee
@@ -173,6 +175,7 @@ tools:
   - b9e04854e2bb
   - c772497b2c32
   - d5659efd66aa
+  - d8d32326fbfb
   - de21b616f03a
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
@@ -266,6 +269,7 @@ tools:
   revisions:
   - d3ebbf39b1c5
   - de7795890bc5
+  - ead35c868b99
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: masigpro
@@ -506,6 +510,7 @@ tools:
 - name: chira_extract
   owner: iuc
   revisions:
+  - 44c50b0714d9
   - 73d2b7a8d94b
   - e7ee3aadf1a5
   tool_panel_section_id: rna_seq

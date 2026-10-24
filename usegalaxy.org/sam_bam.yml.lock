@@ -273,6 +273,7 @@ tools:
   owner: iuc
   revisions:
   - 491037bfc0d2
+  - 4bde991b8037
   - 66e23b11feae
   - 720217c23995
   - 9038311ed624
@@ -377,6 +378,7 @@ tools:
   - 6a8febad1f6c
   - 77889ed49dbc
   - a941babb9268
+  - d2f176e331ef
   - f20b704ba069
   - f597cb9b33bf
   tool_panel_section_id: sam_bam

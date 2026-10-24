@@ -531,6 +531,7 @@ tools:
   owner: bgruening
   revisions:
   - 274193d6c443
+  - 64e2c5ab51cb
   - 985ab0acd514
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
@@ -842,6 +843,7 @@ tools:
 - name: qcxms_production_run
   owner: recetox
   revisions:
+  - 1c7e10729065
   - 69ba95cdcff2
   - cbe34f060712
   tool_panel_section_id: chemicaltoolbox
