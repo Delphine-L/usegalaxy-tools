@@ -162,6 +162,7 @@ tools:
 - name: data_manager_defense_finder
   owner: rplanel
   revisions:
+  - 3db8a2c12869
   - 502208b90cfe
   tool_panel_section_id: data_managers
   tool_panel_section_label: Data Managers
@@ -169,5 +170,6 @@ tools:
   owner: ufz
   revisions:
   - 39dc692a9554
+  - 4cc25c2b1d0b
   tool_panel_section_id: data_managers
   tool_panel_section_label: Data Managers

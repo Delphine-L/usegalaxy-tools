@@ -13,11 +13,13 @@ tools:
   owner: ethevenot
   revisions:
   - e7c5811ec12f
+  - f19a3307db9b
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: mfassignr_kmdnoise
   owner: recetox
   revisions:
+  - 61287368a95d
   - a7a823839ae3
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
@@ -25,6 +27,7 @@ tools:
   owner: recetox
   revisions:
   - 9654573e6889
+  - df906aafac0d
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: mfassignr_snplot
@@ -49,6 +52,7 @@ tools:
   owner: recetox
   revisions:
   - 6c7b17d38a1d
+  - d3dfaa7496a2
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: mfassignr_findrecalseries
@@ -73,6 +77,7 @@ tools:
   owner: recetox
   revisions:
   - 3f54cd56a65e
+  - 63273927b45d
   - 8537763e4713
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
