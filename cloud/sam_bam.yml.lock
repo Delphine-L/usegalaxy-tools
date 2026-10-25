@@ -33,6 +33,7 @@ tools:
   owner: devteam
   revisions:
   - 2899e5b8c52a
+  - 2b901d1b7aef
   - 30388d878f81
   - 85e38b31e8b3
   - df41198e970c
@@ -97,6 +98,7 @@ tools:
   - 40fa6c240105
   - 56fb540810ce
   - 83b8e36e9cbe
+  - a50321bc1a90
   - b5527cc104ab
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM
@@ -138,6 +140,7 @@ tools:
   - 3a0efe14891f
   - 541082d03bef
   - 57934e90e27c
+  - 8fca6e1eac98
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM
 - name: samtools_split
@@ -274,6 +277,7 @@ tools:
 - name: bamtools_split_mapped
   owner: iuc
   revisions:
+  - 90af4f8f59af
   - fa7b5520ae53
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM

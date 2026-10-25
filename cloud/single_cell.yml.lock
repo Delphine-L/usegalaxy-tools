@@ -153,6 +153,7 @@ tools:
   - 43c146e25a43
   - 8b917923f7d4
   - b83fbc90161e
+  - b9712ed9c027
   - c891d8b33ede
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -162,6 +163,7 @@ tools:
   - 0bff0ee0683a
   - 49776718ae90
   - a4b734cd253b
+  - d2755d6016ca
   - f911a64454fb
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -188,6 +190,7 @@ tools:
   revisions:
   - 04b494623f8e
   - '528052085629'
+  - a8b6292cdffc
   - b0fe3e482cb7
   - c9944a2600f1
   - e4c01dcece8b
@@ -212,6 +215,7 @@ tools:
   owner: iuc
   revisions:
   - 8f333f90d8d6
+  - fad352ff02ad
   - fd808de478b1
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -219,6 +223,7 @@ tools:
   owner: iuc
   revisions:
   - 99f912d5af9f
+  - e3a9a42b4605
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: scater_filter
@@ -306,6 +311,7 @@ tools:
   - 16a1c3122996
   - 5a5468c0d26f
   - 62acdd96d4a0
+  - 7f478b3258ec
   - a8f865950ac4
   - aa0c474463c2
   tool_panel_section_id: single_cell
