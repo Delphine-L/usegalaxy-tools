@@ -37,6 +37,7 @@ tools:
   - 3d93dd18d9f8
   - 5e33b465d8d5
   - 75c93c70d094
+  - 94b6bea727ae
   - 9a913cdee30e
   - a7e081ceb76a
   - abfd8a6544d7
@@ -53,6 +54,7 @@ tools:
   revisions:
   - b1cea1b2fcd0
   - e2cf940128d5
+  - e4c69443362d
   - f0e7deab6518
   - f86c27295151
   tool_panel_section_id: fastq_quality_control
@@ -105,6 +107,7 @@ tools:
 - name: fastq_info
   owner: bgruening
   revisions:
+  - 2bca15e630a4
   - 7a821cd57b43
   tool_panel_section_id: fastq_quality_control
   tool_panel_section_label: FASTQ Quality Control
