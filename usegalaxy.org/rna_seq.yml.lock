@@ -11,6 +11,7 @@ tools:
   - 58c35179ebf0
   - 708348a17fa1
   - d6f5fa4ee473
+  - df0082f25f47
   - e827f9aae031
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
@@ -139,6 +140,7 @@ tools:
   - 43798b4caee0
   - 602de62d995b
   - 8b3e3657034e
+  - 8f51a7500540
   - ef2ad746b589
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
@@ -210,6 +212,7 @@ tools:
   - 22cf48ad7b16
   - 6a6717a5f421
   - 86285ddd4512
+  - b6fd78078bb3
   - cf747d1bd79a
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
@@ -241,6 +244,7 @@ tools:
 - name: egsea
   owner: iuc
   revisions:
+  - 183afb27bcf1
   - 31ea4992b948
   - fba1660fb717
   tool_panel_section_id: rna_seq
@@ -501,6 +505,7 @@ tools:
   revisions:
   - 05996586c8b3
   - 2b2bfeda00d0
+  - bd21dd94c221
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: chira_extract
@@ -521,6 +526,7 @@ tools:
   owner: iuc
   revisions:
   - 6492560fe1b4
+  - 672029ec4a0b
   - 9930af9d17f8
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
