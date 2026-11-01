@@ -29,6 +29,7 @@ tools:
   revisions:
   - 0700d9de4f79
   - 8e01d149bcdb
+  - ab32ff3e8409
   tool_panel_section_id: qiime_2
   tool_panel_section_label: QIIME 2
 - name: qiime2__dada2__denoise_single
@@ -36,6 +37,7 @@ tools:
   revisions:
   - 1601b340fb81
   - 354f63459d37
+  - e8bc729e0118
   tool_panel_section_id: qiime_2
   tool_panel_section_label: QIIME 2
 - name: qiime2__feature_table__tabulate_seqs
