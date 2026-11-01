@@ -84,6 +84,7 @@ tools:
   owner: bgruening
   revisions:
   - 4431f39ede55
+  - 88b89b29d871
   - e65d16fb2724
   tool_panel_section_id: deeptools
   tool_panel_section_label: deepTools

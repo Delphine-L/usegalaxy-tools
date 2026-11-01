@@ -74,6 +74,7 @@ tools:
   owner: iuc
   revisions:
   - 3d748954434b
+  - 637e50759b72
   - 7e8c677a7b71
   - 9bd945a03d7b
   - be1fdce914c6
@@ -219,6 +220,7 @@ tools:
   owner: iuc
   revisions:
   - 99f912d5af9f
+  - e3a9a42b4605
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: scater_filter

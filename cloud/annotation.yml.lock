@@ -14,6 +14,7 @@ tools:
   owner: iuc
   revisions:
   - 7844dbe4f8e2
+  - 96112e4c5e26
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: isescan
@@ -58,6 +59,7 @@ tools:
   revisions:
   - 3f3e247c053d
   - c2ef298da409
+  - d8b0de0554a9
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: busco
@@ -66,6 +68,7 @@ tools:
   - 2babe6d5c561
   - 4e70d88adf2f
   - c5a90fa4b8dd
+  - cc217867028e
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: ncbi_fcs_adaptor
