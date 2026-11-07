@@ -160,6 +160,7 @@ tools:
 - name: repeat_masker
   owner: bgruening
   revisions:
+  - 31763a56f1d7
   - 39b40a9a6296
   - 3f987772e283
   - 438f65cb1d14
@@ -201,6 +202,7 @@ tools:
   revisions:
   - 1f5641a52664
   - 31812e7a1315
+  - 578b60b1279d
   - ded48b36f3b7
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -232,6 +234,7 @@ tools:
   owner: iuc
   revisions:
   - 15ac71df11a0
+  - 3f12675edf68
   - 78608ec02d62
   - 809e42326fc2
   - 91887494eb97
@@ -511,6 +514,7 @@ tools:
 - name: windowmasker
   owner: iuc
   revisions:
+  - 81da9f1757b1
   - d90ae4a02efd
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -540,6 +544,7 @@ tools:
   revisions:
   - 7109a27a11db
   - 8f20a5b9b282
+  - c8913c72ee87
   - cfec9601b25d
   - fc7334661489
   tool_panel_section_id: annotation
@@ -614,6 +619,7 @@ tools:
   revisions:
   - 59d308975e63
   - 6d5c8a6ceea0
+  - cfe8742b704e
   - eaa563bd535a
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -626,6 +632,7 @@ tools:
 - name: argnorm
   owner: iuc
   revisions:
+  - 9125d3f45f4d
   - d8e95a03321a
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
