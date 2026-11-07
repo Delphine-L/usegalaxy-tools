@@ -48,6 +48,7 @@ tools:
   revisions:
   - 277313130da5
   - 2d02d9702d3a
+  - 2e6029e47eb5
   - 3c86f71498bc
   - 5511647110ff
   - 5813f9920877
@@ -692,6 +693,7 @@ tools:
 - name: seurat_clustering
   owner: iuc
   revisions:
+  - 110994732ae2
   - 51eb02d9b17a
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -705,6 +707,7 @@ tools:
   owner: iuc
   revisions:
   - 4ec52a83ec82
+  - bae409fc946d
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: seurat_integrate
