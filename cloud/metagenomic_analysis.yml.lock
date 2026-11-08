@@ -171,6 +171,7 @@ tools:
   owner: iuc
   revisions:
   - 4e469b758915
+  - 8ff0155d0992
   - e7c2674e01fe
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
