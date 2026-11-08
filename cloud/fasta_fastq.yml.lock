@@ -14,6 +14,7 @@ tools:
   - 8e264b67a8c0
   - aa784cb3810d
   - c5e2e5902201
+  - e075c7e866d1
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: fastq_filter
@@ -36,6 +37,7 @@ tools:
   owner: devteam
   revisions:
   - 5b87038565bb
+  - 8a2a1f60d8a9
   - e06d41f3ed3e
   - e30352e889fe
   tool_panel_section_id: fasta_fastq
