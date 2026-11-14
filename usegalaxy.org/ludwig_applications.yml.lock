@@ -18,6 +18,7 @@ tools:
   owner: goeckslab
   revisions:
   - 12cd5a6fc2ba
+  - 271ecb35891e
   - 4a63b50a8634
   - a1b91224afb9
   - b486ca953371
@@ -44,6 +45,7 @@ tools:
   - afc8ed4a1838
   - b0627acfa4f4
   - cda3d431d237
+  - d6606c4d0d9a
   - f13455263ac8
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
@@ -72,6 +74,7 @@ tools:
 - name: ludwig_evaluate
   owner: goeckslab
   revisions:
+  - 29ee176f839b
   - 777be50bc321
   - 7cb9e77d9909
   - b58d8857082c
