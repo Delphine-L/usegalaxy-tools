@@ -13,6 +13,7 @@ tools:
 - name: kraken2
   owner: iuc
   revisions:
+  - 1a54e1867fd4
   - 20e2f64aa1fe
   - 241a78eb2935
   - cbe396d9773e
@@ -67,6 +68,7 @@ tools:
   revisions:
   - 0917b2d6010d
   - 9da9706f7ca9
+  - c16d6bfc7783
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: metabat2
@@ -193,6 +195,7 @@ tools:
   revisions:
   - 47198090501e
   - b35a5e8ff0fe
+  - d16fa2560df4
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: dada2_mergepairs

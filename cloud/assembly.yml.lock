@@ -129,11 +129,13 @@ tools:
   - 36ce83a739f2
   - 408ece2e4647
   - 936a1edffce8
+  - 9491362ac1cd
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: purge_dups
   owner: iuc
   revisions:
+  - bded6226d503
   - e9bd16ba5ebd
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
