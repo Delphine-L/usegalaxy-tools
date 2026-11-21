@@ -8,6 +8,7 @@ tools:
   revisions:
   - 4a82d1157b14
   - 4d3eff1bc421
+  - 7e9b2f60c9e1
   tool_panel_section_id: data_managers
   tool_panel_section_label: Data Managers
 - name: data_manager_bowtie2_index_builder
@@ -162,6 +163,7 @@ tools:
 - name: data_manager_defense_finder
   owner: rplanel
   revisions:
+  - 0b381b7b315a
   - 502208b90cfe
   tool_panel_section_id: data_managers
   tool_panel_section_label: Data Managers
