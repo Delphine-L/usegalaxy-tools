@@ -55,6 +55,7 @@ tools:
   revisions:
   - 02a5f43cd5d1
   - 191e43b329f6
+  - 4ba5af45b658
   - 77b41c89d856
   - 8979c288aefb
   - e282bc27be9a
@@ -65,6 +66,7 @@ tools:
   revisions:
   - 2dcfbbf9071a
   - 68f57cc8fad0
+  - 6fe60ee81d7a
   - 78fb18899c99
   - b8cdc0507586
   tool_panel_section_id: convert_formats
@@ -163,6 +165,7 @@ tools:
 - name: gtftobed12
   owner: iuc
   revisions:
+  - 33de73363690
   - 57d45064f114
   - 75a14cc16d4d
   - b026dae67fba
@@ -173,6 +176,7 @@ tools:
   revisions:
   - 356dc923f8d3
   - 3c6f9e8a4c17
+  - 549bf96a2b5b
   - 6e1aa95afa75
   - 8067dfa00ed2
   - e9bbe2f71784
@@ -208,6 +212,7 @@ tools:
   - 3e436657dcd0
   - 4dea02886337
   - 69e0806b63a4
+  - 88fecd593368
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
 - name: compress_file
@@ -227,6 +232,7 @@ tools:
   - 77f67ddd89d6
   - 8dbc700cb940
   - ab55af10f1ff
+  - db7c0226ebd9
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
 - name: msconvert
@@ -297,6 +303,7 @@ tools:
   owner: iuc
   revisions:
   - 31a442afee19
+  - 66c6bc690c0e
   - 8990ed3ff747
   - 92c81e03341c
   - f063c97a7f8f

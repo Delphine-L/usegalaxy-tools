@@ -74,6 +74,7 @@ tools:
   - 53460afd5115
   - '566197475670'
   - 6a097d09fca3
+  - 94f3fd9ade04
   - ca7cb0eaad62
   tool_panel_section_id: graph_display_data
   tool_panel_section_label: Graph/Display Data
@@ -82,6 +83,7 @@ tools:
   revisions:
   - 290a11559985
   - 4b519282a05b
+  - 6eeb8f9a22ea
   - a64dc31ab7f2
   - c4bde687c846
   - df7356989ac1
@@ -155,6 +157,7 @@ tools:
   owner: iuc
   revisions:
   - 635c90a27692
+  - a5055c0d190b
   - b16989c1e3a7
   tool_panel_section_id: graph_display_data
   tool_panel_section_label: Graph/Display Data
@@ -182,6 +185,7 @@ tools:
   revisions:
   - 11869c5becd8
   - 355a82227003
+  - 457ffc1c1c62
   - 497d700a5229
   - 536078949ae4
   - 6b9816a913de
@@ -206,6 +210,7 @@ tools:
 - name: ggplot2_point
   owner: iuc
   revisions:
+  - 1336484a4e6b
   - 1acf88921176
   - 299307abd804
   - 3b12bf9b4b87
@@ -226,6 +231,7 @@ tools:
   - 637cf21db396
   - 63d211052ffb
   - 9c52a8130729
+  - aa4edc1c6f6c
   - d6c41b454cc1
   - d8305f18060e
   - e44775efb2dc
@@ -235,6 +241,7 @@ tools:
   owner: iuc
   revisions:
   - 6e8eb0c0d91f
+  - 703c11e9e432
   - 8f62f666dcb6
   - a490b70e46fc
   tool_panel_section_id: graph_display_data
@@ -331,6 +338,7 @@ tools:
   - a363ba287b88
   - cfb0595f9842
   - e4790edb4299
+  - fb7c8c458459
   tool_panel_section_id: graph_display_data
   tool_panel_section_label: Graph/Display Data
 - name: krona_text

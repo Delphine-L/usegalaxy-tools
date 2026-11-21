@@ -291,6 +291,7 @@ tools:
   - 29151e779524
   - 76d4cbefff85
   - a315c25dc813
+  - bded6226d503
   - e9bd16ba5ebd
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -521,6 +522,7 @@ tools:
   - 6cbca5661205
   - 7f71687c8146
   - 81fc1418fbfb
+  - 88926bef8e75
   - ade829d2ae3a
   - c20a07c9237b
   - cfeb5205eacc
@@ -600,6 +602,7 @@ tools:
   owner: iuc
   revisions:
   - 34245579d255
+  - 825d9ecf8e62
   - 8779f4d2d04d
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -634,6 +637,7 @@ tools:
 - name: vgp_sak_generation
   owner: iuc
   revisions:
+  - 8fbdd799f24c
   - c09d0f41b196
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
