@@ -69,6 +69,7 @@ tools:
 - name: qiime2__diversity__core_metrics_phylogenetic
   owner: q2d2
   revisions:
+  - 4fe98252a16f
   - 7fc930fc43cf
   - 9d7dd5419c37
   tool_panel_section_id: qiime_2
@@ -83,6 +84,7 @@ tools:
 - name: qiime2__diversity__beta_group_significance
   owner: q2d2
   revisions:
+  - 8f112ef712c3
   - a0d20b8b681e
   - c499a93403c7
   tool_panel_section_id: qiime_2
